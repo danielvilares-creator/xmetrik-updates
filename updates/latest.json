@@ -1,9 +1,7 @@
 {
   "version": "0.0.1",
   "publishedAt": "2026-03-22T00:00:00Z",
-  "notes": [
-    "Initial release"
-  ],
+  "notes": ["Initial release"],
   "downloads": {
     "windows": "https://github.com/danielvilares-creator/xmetrik-updates/releases/download/v0.0.1/Trading.Journal.Setup.0.0.1.exe",
     "macos": ""
